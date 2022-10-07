@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "H:\\обучение\\знакомство с языками программирования\\Homework\\Homework_sem2\\task_10_math\\task_10_math.csproj": {}
+  },
+  "projects": {
+    "H:\\обучение\\знакомство с языками программирования\\Homework\\Homework_sem2\\task_10_math\\task_10_math.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\обучение\\знакомство с языками программирования\\Homework\\Homework_sem2\\task_10_math\\task_10_math.csproj",
+        "projectName": "task_10_math",
+        "projectPath": "H:\\обучение\\знакомство с языками программирования\\Homework\\Homework_sem2\\task_10_math\\task_10_math.csproj",
+        "packagesPath": "C:\\Users\\Алексей Сучков\\.nuget\\packages\\",
+        "outputPath": "H:\\обучение\\знакомство с языками программирования\\Homework\\Homework_sem2\\task_10_math\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Алексей Сучков\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
